@@ -1,0 +1,26 @@
+node_modules/
+package-lock.json
+upload/
+dist/
+test/
+log/
+lib/epub-gen/tempDir/
+lib/node-hwp/test/
+# Environment File
+*.env
+.env
+# Logs and databases
+logs
+*.log
+*.sql
+*.sqlite
+# OS generated files
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+test.js
+.vscode
+.vscode/
+vscode/
